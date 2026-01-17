@@ -3326,9 +3326,9 @@ Route121_Text_PatPostBattle:
 	.string "love and care--I don't pick favorites.$"
 
 Route121_Text_MarcelIntro:
-	.string "My POKéMON have never tasted defeat!\n"
-	.string "On their next win, I'm entering them\l"
-	.string "in CONTESTS.$"
+	.string "I traveled all the way from Kanto!\n"
+	.string "I heard the Hoenn gym challenge was\l"
+	.string "the easiest in the World.$"
 
 Route121_Text_MarcelDefeat:
 	.string "Oh, now what happened here?$"
