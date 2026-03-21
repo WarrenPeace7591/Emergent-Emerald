@@ -721,7 +721,7 @@ Level: 1
 IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
 Tags: Ace
 
-Steelix @ Stellixite
+/* Steelix @ Steelixite
 Level: 1
 IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
 Tags: Ace
@@ -990,6 +990,8 @@ Venusaur @ Venusaurite
 Level: 1
 IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
 Tags: Ace
+
+*/
 
 === TRAINER_ALBERTO ===
 Name: ALBERTO
