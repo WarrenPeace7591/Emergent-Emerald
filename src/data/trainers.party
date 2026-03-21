@@ -355,66 +355,641 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
+Party Size: 6
 
-Fearow @ Razor Claw  
-Ability: Sniper  
+Fearow 
 Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- U-turn  
-- Tailwind  
-- Drill Peck  
-- Drill Run  
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Nidoqueen (F) @ Metronome  
-Ability: Rivalry  
+Nidoqueen (F) 
 Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Power-Up Punch  
-- Double-Edge  
-- Toxic Spikes  
-- Earthquake  
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Rapidash @ Charcoal  
-Ability: Flame Body  
+Rapidash 
 Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Will-O-Wisp  
-- Low Kick  
-- Wild Charge  
-- Flare Blitz  
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Cloyster @ White Herb  
-Ability: Skill Link  
+Cloyster
 Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shell Smash  
-- Icicle Spear  
-- Drill Run  
-- Tera Blast  
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe 
 
-Muk @ Leftovers  
-Ability: Sticky Hold  
+Muk 
 Level: 1
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Poison Jab  
-- Knock Off  
-- Zen Headbutt  
-- Toxic  
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Pikachu
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Flareon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Vaporeon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Fearow
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Tinkaton
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Porygon Z 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Ursaring
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Nidoking
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Arcanine
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Lapras
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Umbreon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Espeon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Flygon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Milotic
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Luxray
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Glaceon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Empoleon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Zoroark
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Hydreigon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Haxorus
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Serperior
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Sylveon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Aegislash
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Noivern
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Goodra
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Talonflame
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Dedenne
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Tyrantrum
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Mimikyu
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Lycanroc
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Bewear
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Dragapult
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Toxtricity
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Corviknight
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Alcremie
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Staraptor
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Kilowattrel
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Pawmot
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Blissey
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Maushold
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Slither Wing
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Sandy Shocks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Treads
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Bundle
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Hands
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Jugulis
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Moth
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Thorns
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Gholdengo
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Roaring Moon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Iron Valiant
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Charizard @ Charizardite X
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Charizard @ Charizardite Y
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Blastoise @ Blastoisinite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Alakazam @ Alakazite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Gengar @ Gengarite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Kangaskhan @ Kangaskhanite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Pinsir @ Pinsirite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Gyarados @ Gyaradosite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Aerodactyl @ Aerodactylite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Ampharos @ Ampharosite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Scizor @ Scizorite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Heracross @ Heracronite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Houndoom @ Houndoominite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Tyranitar @ Tyranitarite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Blaziken @ Blazikenite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Gardevoir @ Gardevoirite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Mawile @ Mawilite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Aggron @ Aggronite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Medicham @ Medichamite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Manectric @ Manectite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Banette @ Banettite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Absol @ Absolite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Garchomp @ Garchompite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Lucario @ Lucarionite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Abomasnow @ Abomasite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Beedrill @ Beedrillite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Pidgeot @ Pidgeotite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Slowbro @ Slowbronite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Steelix @ Stellixite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Sceptile @ Sceptilite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Swampert @ Swampertite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Sableye @ Sablenite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Sharpedo @ Sharpedonite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Camerupt @ Cameruptite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Altaria @ Altarianite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Glalie @ Glalitite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Salamence @ Salamencite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Metagross @ Metagrossite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Lopunny @ Lopunnite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Gallade @ Galladite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Audino @ Audinite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Clefable @ Clefablite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Victreebel @ Victreebelite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Starmie @ Starminite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Dragonite @ Dragoninite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Meganium @ Meganiumite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Feraligatr @ Feraligite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Skarmory @ Skarmorite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Froslass @ Froslassite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Emboar @ Emboarite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Excadrill @ Excadrite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Scolipede @ Scolipite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Scrafty @ Scraftinite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Eelektross @ Eelektrossite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Chandelure @ Chandelurite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Chesnaught @ Chesnaughtite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Delphox @ Delphoxite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Greninja @ Greninjite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Pyroar @ Pyroarite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Floette @ Floettite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Malamar @ Malamarite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Barbaracle @ Barbaracite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Dragalge @ Dragalgite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Hawlucha @ Hawluchanite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Drampa @ Drampanite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Falinks @ Falinksite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Raichu @ Raichunite X 
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Raichu @ Raichunite Y 
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Chimecho @ Chimechite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Absol @ Absolite Z 
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Staraptor @ Staraptite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Garchomp @ Garchompite Z 
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Lucario @ Lucarionite Z 
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Golurk @ Golurkite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Meowstic @ Meowsticite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Crabominable @ Crabominite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Golisopod @ Golisopite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Scovillain @ Scovillainite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Glimmora @ Glimmoranite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Tatsugiri @ Tatsugirinite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
+
+Baxcalibur @ Baxcalibrite
+Level: 1
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
 
 Venusaur @ Venusaurite  
-Ability: Chlorophyll  
 Level: 1
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Giga Drain  
-- Sludge Bomb  
-- Earth Power  
-- Synthesis  
+IVs: 22 HP / 22 Atk / 22 Def / 22 SpA / 22 SpD / 22 Spe  
+Tags: Ace
 
 === TRAINER_ALBERTO ===
 Name: ALBERTO
@@ -1074,17 +1649,30 @@ Class: Aqua Admin
 Pic: Aqua Admin M
 Gender: Male
 Music: Aqua
-Items: Super Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Mightyena
-Level: 34
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Pelipper
+Ability: Drizzle
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Golbat
-Level: 34
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Rotom Wash 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Carracosta
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Basculegion
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Greninja @ Greninjite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ZANDER ===
 Name: ZANDER
@@ -1105,15 +1693,20 @@ Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Carvanha
-Level: 28
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Politoed
+Ability: Drizzle
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Mightyena
-Level: 28
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Toxapex
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Primarina
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_SHELLY_SEAFLOOR_CAVERN ===
 Name: SHELLY
@@ -1122,15 +1715,20 @@ Pic: Aqua Admin F
 Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Sharpedo
-Level: 37
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Politoed
+Ability: Drizzle
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Mightyena
-Level: 37
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Barraskewda
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Feraligatr @ Feraligite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ARCHIE ===
 Name: ARCHIE
@@ -1138,20 +1736,33 @@ Class: Aqua Leader
 Pic: Aqua Leader Archie
 Gender: Male
 Music: Aqua
-Items: Super Potion / Super Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Mightyena
-Level: 41
+Politoed 
+Ability: Drizzle
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Crobat
-Level: 41
+Drednaw
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Sharpedo
-Level: 43
+Golisopod
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Veluza
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Walking Wake 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Blastoise @ Blastoisinite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_LEAH ===
@@ -1356,66 +1967,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Crobat @ Heat Rock  
-Ability: Infiltrator
-Level: 1   
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- U-turn  
-- Sunny Day  
-- Roost  
-
-Espeon @ Wise Glasses  
-Ability: Magic Bounce  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Calm Mind  
-- Stored Power  
-- Draining Kiss  
-- Morning Sun  
-
-Meganium @ Meganiumite  
-Ability: Overgrow
-Level: 1  
-Calm Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Synthesis  
-- Weather Ball  
-- Giga Drain  
-- Toxic  
-
-Togetic @ Eviolite  
-Ability: Super Luck  
-Level: 1 
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Light Screen  
-- Baton Pass  
-- Nasty Plot  
-- Draining Kiss  
-
-Steelix @ Leftovers  
-Ability: Sturdy  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Heavy Slam  
-- Earthquake  
-- Toxic  
-
-Ampharos @ Air Balloon  
-Ability: Static  
-Level: 1 
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Dragon Pulse  
-- Focus Blast  
-- Volt Switch  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_VIOLET ===
 Name: VIOLET
@@ -1953,66 +2506,8 @@ Music: Cool
 Items: Hyper Potion
 Double Battle: No
 AI: Smart Trainer
-
-Pelipper @ Damp Rock  
-Ability: Drizzle  
-Level: 1 
-Relaxed Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Hurricane  
-- U-turn  
-- Roost  
-- Tailwind  
-
-Breloom @ Life Orb  
-Ability: Technician  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Spore  
-- Bullet Seed  
-- Mach Punch  
-- Swords Dance  
-
-Skarmory @ Salac Berry  
-Ability: Weak Armor  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Spikes  
-- Roost  
-- Whirlwind  
-- Brave Bird  
-
-Swampert @ Swampertite  
-Ability: Torrent  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bulk Up  
-- Waterfall  
-- Earthquake  
-- Ice Punch  
-
-Armaldo @ Quick Claw  
-Ability: Swift Swim  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stone Edge  
-- X-Scissor  
-- Knock Off  
-- Swords Dance  
-
-Absol @ Black Glasses  
-Ability: Super Luck  
-Level: 1  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Knock Off  
-- Sucker Punch  
-- Shadow Claw  
-- Pursuit  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_VINCENT ===
 Name: VINCENT
@@ -2051,66 +2546,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Staraptor @ Choice Scarf  
-Ability: Intimidate  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Close Combat  
-- U-turn  
-- Double-Edge  
-
-Weavile @ Choice Band  
-Ability: Pressure  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Crash  
-- Knock Off  
-- Ice Shard  
-- Pursuit  
-
-Rhyperior @ Leftovers  
-Ability: Solid Rock  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Rock Blast  
-- Ice Punch  
-
-Toxicroak @ Life Orb  
-Ability: Dry Skin  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-
-Rotom @ Electric Gem  
-Ability: Levitate  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Shadow Ball  
-- Volt Switch  
-- Will-O-Wisp  
-
-Lucario @ Lucarionite  
-Ability: Justified  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Flash Cannon  
-- Aura Sphere  
-- Bullet Punch  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_EDGAR ===
 Name: EDGAR
@@ -2121,66 +2558,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Whimsicott @ Focus Sash  
-Ability: Prankster  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Encore  
-- Tailwind  
-- Leech Seed  
-- U-turn  
-
-Emboar @ Emboarite  
-Ability: Blaze  
-Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Flare Blitz  
-- Close Combat  
-- Sucker Punch  
-- Drain Punch  
-
-Excadrill @ Leftovers  
-Ability: Mold Breaker  
-Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Iron Head  
-- Rapid Spin  
-
-Reuniclus @ Life Orb  
-Ability: Magic Guard  
-Level: 1
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Future Sight  
-- Reflect  
-- Focus Blast  
-- Recover  
-
-Emolga @ Charti Berry  
-Ability: Motor Drive  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Acrobatics  
-- Knock Off  
-- U-turn  
-- Roost  
-
-Jellicent @ Colbur Berry  
-Ability: Cursed Body  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Recover  
-- Taunt  
-- Will-O-Wisp  
-- Hex  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_ALBERT ===
 Name: ALBERT
@@ -2191,66 +2570,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Talonflame @ Flying Gem  
-Ability: Gale Wings  
-Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Acrobatics  
-- Swords Dance  
-- Roost  
-- Dual Wingbeat  
-
-Diggersby @ Assault Vest  
-Ability: Huge Power  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Facade  
-- Earthquake  
-- Fire Punch  
-- Quick Attack  
-
-Florges @ Leftovers  
-Ability: Flower Veil  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Calm Mind  
-- Moonblast  
-- Psychic Noise  
-- Wish  
-
-Hawlucha @ Red Card  
-Ability: Unburden  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Zen Headbutt  
-- Acrobatics  
-- Power-Up Punch  
-
-Aegislash @ Clear Amulet  
-Ability: Stance Change  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Shadow Sneak  
-- Close Combat  
-- King's Shield  
-
-Greninja @ Greninjite  
-Ability: Battle Bond  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Surf  
-- Dark Pulse  
-- Ice Beam  
-- Sludge Wave  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_SAMUEL ===
 Name: SAMUEL
@@ -2260,66 +2581,8 @@ Gender: Male
 Music: Cool
 Double Battle: No
 AI: Smart Trainer
-
-Vikavolt @ Focus Sash  
-Ability: Levitate  
-Level: 1  
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Sticky Web  
-- Volt Switch  
-- Bug Buzz  
-- Energy Ball  
-
-Toxapex @ Eject Button  
-Ability: Regenerator  
-Level: 1 
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Surf  
-- Baneful Bunker  
-- Toxic Spikes  
-- Recover  
-
-Golisopod @ Shell Bell  
-Ability: Emergency Exit  
-Level: 1 
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- First Impression  
-- Sucker Punch  
-- Substitute  
-- X-Scissor  
-
-Togedemaru @ Rocky Helmet  
-Ability: Iron Barbs  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Zing Zap  
-- Iron Head  
-- U-turn  
-- Spiky Shield  
-
-Golem-Alola @ Choice Band  
-Ability: Sturdy  
-Level: 1  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Wild Charge  
-- Brick Break  
-- Earthquake  
-- Fire Punch  
-
-Incineroar @ Muscle Band  
-Ability: Intimidate  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Fake Out  
-- Flare Blitz  
-- Knock Off  
-- U-turn  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_VITO ===
 Name: VITO
@@ -2329,66 +2592,8 @@ Gender: Male
 Music: Cool
 Double Battle: No
 AI: Smart Trainer
-
-Corviknight @ Rocky Helmet  
-Ability: Pressure  
-Level: 1  
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Defog  
-- U-turn  
-- Roost  
-
-Drednaw @ White Herb  
-Ability: Strong Jaw  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shell Smash  
-- Ice Fang  
-- Super Fang  
-- Crunch  
-
-Flapple @ Life Orb  
-Ability: Hustle  
-Level: 1  
-Naive Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Grav Apple  
-- Draco Meteor  
-- Sucker Punch  
-- U-turn  
-
-Hatterene @ Leftovers  
-Ability: Magic Bounce  
-Level: 1 
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Calm Mind  
-- Draining Kiss  
-- Psyshock  
-- Mystical Fire  
-
-Falinks @ Sitrus Berry  
-Ability: Defiant  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- No Retreat  
-- Body Press  
-- High Horsepower  
-- Substitute  
-
-Rillaboom @ Choice Band  
-Ability: Grassy Surge  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Grassy Glide  
-- Wood Hammer  
-- U-turn  
-- Knock Off  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_OWEN ===
 Name: OWEN
@@ -2398,66 +2603,8 @@ Gender: Male
 Music: Cool
 Double Battle: No
 AI: Smart Trainer
-
-Kilowattrel @ Lum Berry  
-Ability: Wind Power  
-Level: 1  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Air Slash  
-- Thunderbolt  
-- U-turn  
-- Tailwind  
-
-Dachsbun @ Heavy-Duty Boots  
-Ability: Well-Baked Body  
-Level: 1 
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Wish  
-- Protect  
-- Play Rough  
-- Roar  
-
-Garganacl @ Leftovers  
-Ability: Clear Body  
-Level: 1 
-Careful Nature  
-IVs: 24 HP / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Salt Cure  
-- Recover  
-- Body Press  
-
-Tinkaton  
-Ability: Pickpocket  
-Level: 1 
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Gigaton Hammer  
-- Knock Off  
-- Play Rough  
-
-Iron Bundle @ Booster Energy  
-Ability: Quark Drive  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 0 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Hydro Pump  
-- Freeze-Dry  
-- Substitute  
-- Ice Beam  
-
-Skeledirge @ Throat Spray  
-Ability: Blaze  
-Level: 1 
-Modest Nature  
-IVs: 24 HP / 0 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Torch Song  
-- Alluring Voice  
-- Hyper Voice  
-- Yawn  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_WILTON_2 ===
 Name: WILTON
@@ -2468,66 +2615,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Staraptor @ Choice Scarf  
-Ability: Intimidate  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Close Combat  
-- U-turn  
-- Double-Edge  
-
-Weavile @ Choice Band  
-Ability: Pressure  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Crash  
-- Knock Off  
-- Ice Shard  
-- Pursuit  
-
-Rhyperior @ Leftovers  
-Ability: Solid Rock  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Rock Blast  
-- Ice Punch  
-
-Toxicroak @ Life Orb  
-Ability: Dry Skin  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-
-Rotom @ Electric Gem  
-Ability: Levitate  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Shadow Ball  
-- Volt Switch  
-- Will-O-Wisp  
-
-Lucario @ Lucarionite  
-Ability: Justified  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Flash Cannon  
-- Aura Sphere  
-- Bullet Punch  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_WILTON_3 ===
 Name: WILTON
@@ -2538,66 +2627,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Staraptor @ Choice Scarf  
-Ability: Intimidate  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Close Combat  
-- U-turn  
-- Double-Edge  
-
-Weavile @ Choice Band  
-Ability: Pressure  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Crash  
-- Knock Off  
-- Ice Shard  
-- Pursuit  
-
-Rhyperior @ Leftovers  
-Ability: Solid Rock  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Rock Blast  
-- Ice Punch  
-
-Toxicroak @ Life Orb  
-Ability: Dry Skin  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-
-Rotom @ Electric Gem  
-Ability: Levitate  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Shadow Ball  
-- Volt Switch  
-- Will-O-Wisp  
-
-Lucario @ Lucarionite  
-Ability: Justified  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Flash Cannon  
-- Aura Sphere  
-- Bullet Punch  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_WILTON_4 ===
 Name: WILTON
@@ -2608,66 +2639,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Staraptor @ Choice Scarf  
-Ability: Intimidate  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Close Combat  
-- U-turn  
-- Double-Edge  
-
-Weavile @ Choice Band  
-Ability: Pressure  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Crash  
-- Knock Off  
-- Ice Shard  
-- Pursuit  
-
-Rhyperior @ Leftovers  
-Ability: Solid Rock  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Rock Blast  
-- Ice Punch  
-
-Toxicroak @ Life Orb  
-Ability: Dry Skin  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-
-Rotom @ Electric Gem  
-Ability: Levitate  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Shadow Ball  
-- Volt Switch  
-- Will-O-Wisp  
-
-Lucario @ Lucarionite  
-Ability: Justified  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Flash Cannon  
-- Aura Sphere  
-- Bullet Punch  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_WILTON_5 ===
 Name: WILTON
@@ -2678,73 +2651,16 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Staraptor @ Choice Scarf  
-Ability: Intimidate  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Close Combat  
-- U-turn  
-- Double-Edge  
-
-Weavile @ Choice Band  
-Ability: Pressure  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Crash  
-- Knock Off  
-- Ice Shard  
-- Pursuit  
-
-Rhyperior @ Leftovers  
-Ability: Solid Rock  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Rock Blast  
-- Ice Punch  
-
-Toxicroak @ Life Orb  
-Ability: Dry Skin  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Gunk Shot  
-- Drain Punch  
-- Sucker Punch  
-
-Rotom @ Electric Gem  
-Ability: Levitate  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Shadow Ball  
-- Volt Switch  
-- Will-O-Wisp  
-
-Lucario @ Lucarionite  
-Ability: Justified  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Flash Cannon  
-- Aura Sphere  
-- Bullet Punch  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_WARREN ===
 Name: WARREN
 Class: Cooltrainer
-Pic: Cooltrainer M
-Gender: Male
+Pic: Cooltrainer F
+Gender: Female
 Music: Cool
+Mugshot: Purple
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
@@ -2868,66 +2784,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Heracross @ Flame Orb  
-Ability: Guts  
-Level: 1 
-Naughty Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Facade  
-- Pursuit  
-- Trailblaze  
-- Brick Break  
-
-Hydreigon @ Bright Powder  
-Ability: Levitate  
-Level: 1
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Roost  
-- Dark Pulse  
-- Dragon Pulse  
-- Focus Blast  
-
-Bronzong @ Assault Vest  
-Ability: Heavy Metal  
-Level: 1
-Quiet Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Grass Knot  
-- Heavy Slam  
-- Gyro Ball  
-- Ancient Power  
-
-Gliscor @ Toxic Orb  
-Ability: Poison Heal  
-Level: 1
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Poison Jab  
-- Toxic Spikes  
-- X-Scissor  
-- Crabhammer  
-
-Glaceon @ Quick Claw  
-Ability: Snow Cloak  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Baton Pass  
-- Reflect  
-- Calm Mind  
-- Wish  
-
-Gyarados @ Gyaradosite  
-Ability: Intimidate  
-Level: 1
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Waterfall  
-- Crunch  
-- Dragon Dance  
-- Ice Fang  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_KEIRA ===
 Name: KEIRA
@@ -2953,65 +2811,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Gallade @ Scope Lens  
-Ability: Sharpness  
-Tera Type: Steel  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sacred Sword  
-- Psycho Cut  
-- Leaf Blade  
-
-Scizor @ Occa Berry  
-Ability: Technician  
-Tera Type: Steel  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bullet Punch  
-- U-turn  
-- Assurance  
-- Acrobatics  
-
-Bisharp @ Eviolite  
-Ability: Defiant  
-Tera Type: Flying  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sucker Punch  
-- Iron Head  
-- Throat Chop  
-
-Weavile  
-Ability: Pickpocket  
-Tera Type: Ice  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Triple Axel  
-- Knock Off  
-- Ice Shard  
-- Swords Dance  
-
-Gholdengo @ Metal Coat  
-Ability: Good as Gold  
-Tera Type: Fairy  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Shadow Ball  
-- Make It Rain  
-- Focus Blast  
-
-Lopunny @ Lopunnite  
-Ability: Cute Charm  
-Tera Type: Normal  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Aura Sphere  
-- Agility  
-- Power-Up Punch  
-- Triple Axel  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_JENNIFER ===
 Name: JENNIFER
@@ -3022,66 +2823,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Noivern @ Yache Berry  
-Ability: Infiltrator  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Draco Meteor  
-- Super Fang  
-- Taunt  
-- Roost  
-
-Meganium @ Leftovers  
-Ability: Overgrow  
-Level: 1 
-Calm Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Aromatherapy  
-- Giga Drain  
-- Synthesis  
-- Dragon Tail  
-
-Scolipede @ Scolipite 
-Ability: Speed Boost  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Megahorn  
-- Protect  
-- Earthquake  
-
-Vaporeon @ Light Clay  
-Ability: Water Absorb  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Acid Armor  
-- Reflect  
-- Surf  
-- Toxic  
-
-Excadrill @ Chople Berry  
-Ability: Sand Rush  
-Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Iron Head  
-- Earthquake  
-- Sandstorm  
-
-Typhlosion-Hisui @ Heavy-Duty Boots  
-Ability: Blaze  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Substitute  
-- Calm Mind  
-- Infernal Parade  
-- Flamethrower  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_HOPE ===
 Name: HOPE
@@ -3092,66 +2835,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Lucario @ Life Orb  
-Ability: Justified  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Close Combat  
-- Meteor Mash  
-- Extreme Speed  
-
-Swampert @ Rindo Berry  
-Ability: Torrent  
-Level: 1
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Flip Turn  
-- Knock Off  
-
-Sylveon @ Choice Specs  
-Ability: Pixilate  
-Level: 1
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Hyper Voice  
-- Psychic  
-- Shadow Ball  
-- Draining Kiss  
-
-Moltres @ Salac Berry  
-Ability: Flame Body  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Flamethrower  
-- Roost  
-- U-turn  
-- Roar  
-
-Alakazam @ Focus Band  
-Ability: Magic Guard  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Psychic  
-- Focus Blast  
-- Shadow Ball  
-
-Gengar @ Gengarite  
-Ability: Cursed Body  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shadow Ball  
-- Sludge Wave  
-- Icy Wind  
-- Nasty Plot  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_SHANNON ===
 Name: SHANNON
@@ -3161,66 +2846,8 @@ Gender: Female
 Music: Cool
 Double Battle: No
 AI: Smart Trainer
-
-Lycanroc-Dusk @ Focus Sash  
-Ability: Tough Claws  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Close Combat  
-- Accelerock  
-- Taunt  
-
-Breloom @ Focus Sash  
-Ability: Technician  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Bullet Seed  
-- Mach Punch  
-- Rock Tomb  
-
-Cloyster @ Lum Berry  
-Ability: Skill Link  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shell Smash  
-- Icicle Spear  
-- Rock Blast  
-- Tera Blast  
-
-Flygon @ Loaded Dice  
-Ability: Levitate  
-Level: 1   
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Dragon Dance  
-- Scale Shot  
-- Earthquake  
-- Substitute  
-
-Scream Tail @ Booster Energy  
-Ability: Protosynthesis  
-Level: 1  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Calm Mind  
-- Dazzling Gleam  
-- Psychic Noise  
-- Fire Blast  
-
-Incineroar @ Heavy-Duty Boots  
-Ability: Intimidate  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Knock Off  
-- Flare Blitz  
-- Earthquake  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_MICHELLE ===
 Name: MICHELLE
@@ -3231,66 +2858,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Electrode @ Damp Rock  
-Ability: Aftermath  
-Level: 1  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Rain Dance  
-- Volt Switch  
-- Taunt  
-- Explosion  
-
-Golduck @ Mystic Water  
-Ability: Swift Swim  
-Level: 1  
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Surf  
-- Ice Beam  
-- Grass Knot  
-
-Rotom @ Choice Scarf  
-Ability: Levitate  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunder  
-- Shadow Ball  
-- Volt Switch  
-- Trick  
-
-Whiscash @ Leftovers  
-Ability: Hydration  
-Level: 1  
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Liquidation  
-- Earthquake  
-- Rest  
-
-Sharpedo @ Sharpedonite  
-Ability: Speed Boost  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Rain Dance  
-- Aqua Jet  
-- Crunch  
-- Ice Fang
-
-Qwilfish-Hisui @ Eviolite  
-Ability: Swift Swim  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Crunch  
-- Gunk Shot  
-- Liquidation  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_CAROLINE ===
 Name: CAROLINE
@@ -3301,66 +2870,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Ninetales @ Heat Rock  
-Ability: Drought  
-Level: 1   
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Will-O-Wisp  
-- Flamethrower  
-- Encore  
-- Healing Wish  
-
-Brute Bonnet @ Loaded Dice  
-Ability: Protosynthesis  
-Level: 1  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Spore  
-- Crunch  
-- Close Combat  
-- Bullet Seed  
-
-Arcanine @ Choice Band  
-Ability: Flash Fire  
-Level: 1   
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Flare Blitz  
-- Close Combat  
-- Extreme Speed  
-- Wild Charge  
-
-Gligar @ Eviolite  
-Ability: Immunity  
-Level: 1    
-Sassy Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Knock Off  
-- U-turn  
-- Taunt  
-
-Coalossal @ Heavy-Duty Boots  
-Ability: Flame Body  
-Level: 1  
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Rapid Spin  
-- Spikes  
-- Power Gem  
-- Flamethrower  
-
-Victreebel @ Victreebelite  
-Ability: Chlorophyll  
-Level: 1  
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Growth  
-- Giga Drain  
-- Sludge Bomb  
-- Weather Ball  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_JULIE ===
 Name: JULIE
@@ -3371,66 +2882,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Dudunsparce @ Razor Fang  
-Ability: Serene Grace  
-Level: 1 
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Air Slash  
-- Calm Mind  
-- Boomburst  
-- Shadow Ball  
-
-Vaporeon @ Absorb Bulb  
-Ability: Water Absorb  
-Level: 1  
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Wish  
-- Protect  
-- Surf  
-- Ice Beam  
-
-Frosmoth @ Assault Vest  
-Ability: Ice Scales  
-Level: 1 
-Calm Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Ice Beam  
-- Giga Drain  
-- U-turn  
-- Air Slash  
-
-Sandaconda @ Bright Powder  
-Ability: Shed Skin  
-Level: 1  
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Earthquake  
-- Substitute  
-- Rock Slide  
-
-Passimian @ Choice Scarf  
-Ability: Defiant  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Close Combat  
-- Trailblaze  
-- U-turn  
-- Rock Slide  
-
-Houndoom @ Houndoominite  
-Ability: Flash Fire  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Fire Blast  
-- Dark Pulse  
-- Hyper Voice  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_BROOKE_2 ===
 Name: BROOKE
@@ -3441,65 +2894,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Gallade @ Scope Lens  
-Ability: Sharpness  
-Tera Type: Steel  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sacred Sword  
-- Psycho Cut  
-- Leaf Blade  
-
-Scizor @ Occa Berry  
-Ability: Technician  
-Tera Type: Steel  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bullet Punch  
-- U-turn  
-- Assurance  
-- Acrobatics  
-
-Bisharp @ Eviolite  
-Ability: Defiant  
-Tera Type: Flying  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sucker Punch  
-- Iron Head  
-- Throat Chop  
-
-Weavile  
-Ability: Pickpocket  
-Tera Type: Ice  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Triple Axel  
-- Knock Off  
-- Ice Shard  
-- Swords Dance  
-
-Gholdengo @ Metal Coat  
-Ability: Good as Gold  
-Tera Type: Fairy  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Shadow Ball  
-- Make It Rain  
-- Focus Blast  
-
-Lopunny @ Lopunnite  
-Ability: Cute Charm  
-Tera Type: Normal  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Aura Sphere  
-- Agility  
-- Power-Up Punch  
-- Triple Axel  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_BROOKE_3 ===
 Name: BROOKE
@@ -3510,65 +2906,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Gallade @ Scope Lens  
-Ability: Sharpness  
-Tera Type: Steel  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sacred Sword  
-- Psycho Cut  
-- Leaf Blade  
-
-Scizor @ Occa Berry  
-Ability: Technician  
-Tera Type: Steel  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bullet Punch  
-- U-turn  
-- Assurance  
-- Acrobatics  
-
-Bisharp @ Eviolite  
-Ability: Defiant  
-Tera Type: Flying  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sucker Punch  
-- Iron Head  
-- Throat Chop  
-
-Weavile  
-Ability: Pickpocket  
-Tera Type: Ice  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Triple Axel  
-- Knock Off  
-- Ice Shard  
-- Swords Dance  
-
-Gholdengo @ Metal Coat  
-Ability: Good as Gold  
-Tera Type: Fairy  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Shadow Ball  
-- Make It Rain  
-- Focus Blast  
-
-Lopunny @ Lopunnite  
-Ability: Cute Charm  
-Tera Type: Normal  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Aura Sphere  
-- Agility  
-- Power-Up Punch  
-- Triple Axel  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_BROOKE_4 ===
 Name: BROOKE
@@ -3579,65 +2918,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Gallade @ Scope Lens  
-Ability: Sharpness  
-Tera Type: Steel  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sacred Sword  
-- Psycho Cut  
-- Leaf Blade  
-
-Scizor @ Occa Berry  
-Ability: Technician  
-Tera Type: Steel  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bullet Punch  
-- U-turn  
-- Assurance  
-- Acrobatics  
-
-Bisharp @ Eviolite  
-Ability: Defiant  
-Tera Type: Flying  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sucker Punch  
-- Iron Head  
-- Throat Chop  
-
-Weavile  
-Ability: Pickpocket  
-Tera Type: Ice  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Triple Axel  
-- Knock Off  
-- Ice Shard  
-- Swords Dance  
-
-Gholdengo @ Metal Coat  
-Ability: Good as Gold  
-Tera Type: Fairy  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Shadow Ball  
-- Make It Rain  
-- Focus Blast  
-
-Lopunny @ Lopunnite  
-Ability: Cute Charm  
-Tera Type: Normal  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Aura Sphere  
-- Agility  
-- Power-Up Punch  
-- Triple Axel  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_BROOKE_5 ===
 Name: BROOKE
@@ -3648,65 +2930,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Gallade @ Scope Lens  
-Ability: Sharpness  
-Tera Type: Steel  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sacred Sword  
-- Psycho Cut  
-- Leaf Blade  
-
-Scizor @ Occa Berry  
-Ability: Technician  
-Tera Type: Steel  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bullet Punch  
-- U-turn  
-- Assurance  
-- Acrobatics  
-
-Bisharp @ Eviolite  
-Ability: Defiant  
-Tera Type: Flying  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Sucker Punch  
-- Iron Head  
-- Throat Chop  
-
-Weavile  
-Ability: Pickpocket  
-Tera Type: Ice  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Triple Axel  
-- Knock Off  
-- Ice Shard  
-- Swords Dance  
-
-Gholdengo @ Metal Coat  
-Ability: Good as Gold  
-Tera Type: Fairy  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Shadow Ball  
-- Make It Rain  
-- Focus Blast  
-
-Lopunny @ Lopunnite  
-Ability: Cute Charm  
-Tera Type: Normal  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Aura Sphere  
-- Agility  
-- Power-Up Punch  
-- Triple Axel  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_PATRICIA ===
 Name: PATRICIA
@@ -6426,50 +5651,34 @@ Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Male
 Music: Elite Four
-Items: Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer / Force Setup First Turn
+AI: Smart Trainer
 Mugshot: Purple
 
-Mightyena
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Roar
-- Double Edge
-- Sand Attack
-- Crunch
+Zoroark
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Shiftry
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Torment
-- Double Team
-- Swagger
-- Extrasensory
+Sableye
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Cacturne
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Leech Seed
-- Feint Attack
-- Needle Arm
-- Cotton Spore
+Spiritomb
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Crawdaunt
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Surf
-- Swords Dance
-- Strength
-- Facade
+Grimmsnarl
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Absol @ Sitrus Berry
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Rock Slide
-- Swords Dance
-- Slash
+Hydreigon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Absol @ Absolite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_PHOEBE ===
 Name: PHOEBE
@@ -6477,50 +5686,34 @@ Class: Elite Four
 Pic: Elite Four Phoebe
 Gender: Female
 Music: Elite Four
-Items: Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 Mugshot: Green
 
 Dusclops
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Punch
-- Confuse Ray
-- Curse
-- Protect
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Banette
-Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Grudge
-- Will O Wisp
-- Feint Attack
+Annihilape
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Sableye
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Double Team
-- Night Shade
-- Feint Attack
+Mismagius
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Banette
-Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Psychic
-- Thunderbolt
-- Facade
+Zoroark Hisui
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Dusclops @ Sitrus Berry
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Ice Beam
-- Rock Slide
-- Earthquake
+Dragapult
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Gengar @ Gengarite 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_GLACIA ===
 Name: GLACIA
@@ -6528,50 +5721,34 @@ Class: Elite Four
 Pic: Elite Four Glacia
 Gender: Female
 Music: Elite Four
-Items: Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
-Mugshot: Pink
+AI: Smart Trainer
+Mugshot: Yellow
 
-Sealeo
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Encore
-- Body Slam
-- Hail
-- Ice Ball
+Sandslash Alola
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Glalie
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Crunch
-- Icy Wind
-- Ice Beam
+Beartic
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Sealeo
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Attract
-- Double Edge
-- Hail
-- Blizzard
+Chien Pao
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Glalie
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Explosion
-- Hail
-- Ice Beam
+Cryogonal
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Walrein @ Sitrus Berry
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Body Slam
-- Ice Beam
-- Sheer Cold
+Baxcalibur
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Glalie @ Glalitite 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_DRAKE ===
 Name: DRAKE
@@ -6579,50 +5756,34 @@ Class: Elite Four
 Pic: Elite Four Drake
 Gender: Male
 Music: Elite Four
-Items: Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 Mugshot: Blue
 
-Shelgon
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Rock Tomb
-- Dragon Claw
-- Protect
-- Double Edge
-
-Altaria
-Level: 54
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Edge
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
-
-Kingdra
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Smokescreen
-- Dragon Dance
-- Surf
-- Body Slam
+Druddigon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Flygon
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Flamethrower
-- Crunch
-- Dragon Breath
-- Earthquake
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Salamence @ Sitrus Berry
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Dragon Claw
-- Rock Slide
-- Crunch
+Goodra Hisui
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Raging Bolt
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Salamence 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Dragonite @ Dragoninite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ROXANNE_1 ===
 Name: ROXANNE
@@ -6630,33 +5791,20 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Potion / Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Conservative
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Naclstack
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Sudowoodo
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Nosepass @ Oran Berry
-Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
-- Rock Tomb
+Shuckle
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
@@ -6664,33 +5812,25 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Risky
 
-Machop
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
+Hariyama
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Meditite
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
-- Reflect
-- Bulk Up
 
-Makuhita @ Sitrus Berry
-Level: 19
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
-- Bulk Up
+Pawmot
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Lucario
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Hawlucha @ Focus Sash
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_WATTSON_1 ===
 Name: WATTSON
@@ -6698,41 +5838,29 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Risky
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Bellibolt
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Kilowattrel
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+Raichu Alola
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Emolga
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Manectric @ Manectite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_FLANNERY_1 ===
 Name: FLANNERY
@@ -6740,41 +5868,29 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Risky
 
-Numel
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Ninetales 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Scovillain
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Talonflame
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Torkoal @ White Herb
-Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Darmanitan
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Houndoom @ Houndoominite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -6782,41 +5898,33 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Conservative
 
-Spinda
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+Greedent
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Vigoroth
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Linoone
-Level: 29
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+Oranguru
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Blissey
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Slaking @ Sitrus Berry
-Level: 31
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Lopunny @ Lopunnite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_WINONA_1 ===
 Name: WINONA
@@ -6824,49 +5932,33 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer / Risky
+AI: Smart Trainer / Risky
 
-Swablu
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
+Staraptor
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Tropius
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
+Gliscor
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Pelipper
-Level: 30
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
+Kilowattrel
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Skarmory
-Level: 31
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Altaria @ Oran Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Altaria @ Yache Berry
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Aerodactyl @ Aerodactylite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -6874,41 +5966,33 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
+Items: Mega Ring
 Double Battle: Yes
-AI: Basic Trainer
+AI: Smart Trainer / Conservative
 
-Claydol
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Earthquake
-- Ancient Power
-- Psychic
-- Light Screen
+Bronzong
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Xatu
-Level: 41
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Psychic
-- Sunny Day
-- Confuse Ray
-- Calm Mind
+Reuniclus
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Scream Tail @ Booster Energy
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Lunatone @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Psychic
-- Hypnosis
-- Calm Mind
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 Solrock @ Sitrus Berry
-Level: 42
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Sunny Day
-- Solar Beam
-- Psychic
-- Flamethrower
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Malamar @ Malamarite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_JUAN_1 ===
 Name: JUAN
@@ -6916,49 +6000,33 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / Conservative
 
-Luvdisc
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
+Pelipper
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Whiscash
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
+Lapras
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Sealeo
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
+Seismitoad
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Crawdaunt
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
+Drednaw
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Kingdra @ Chesto Berry
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Water Pulse
-- Double Team
-- Ice Beam
-- Rest
+Dondozo
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Swampert @ Swampertite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_JERRY_1 ===
 Name: JERRY
@@ -7966,66 +7034,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Primeape @ Eviolite  
-Ability: Defiant  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Close Combat  
-- Rage Fist  
-- Stealth Rock  
-- Taunt  
-
-Tauros-Paldea-Blaze @ Sitrus Berry  
-Ability: Cud Chew  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bulk Up  
-- Raging Bull  
-- Close Combat  
-- Flame Charge  
-
-Oricorio-Pom-Pom @ Flying Gem  
-Ability: Dancer  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Quiver Dance  
-- Revelation Dance  
-- Hurricane  
-- Roost  
-
-Krookodile @ Assault Vest  
-Ability: Moxie  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Earthquake  
-- Crunch  
-- Stone Edge  
-- Close Combat  
-
-Salazzle @ Leftovers  
-Ability: Oblivious  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Nasty Plot  
-- Overheat  
-- Sludge Bomb  
-- Dragon Pulse  
-
-Bois (Heracross) @ Heracronite  
-Ability: Moxie  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Brick Break  
-- Trailblaze  
-- Pursuit  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_KATELYNN ===
 Name: KATELYNN
@@ -8036,66 +7046,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Abomasnow @ Icy Rock  
-Ability: Snow Warning  
-Level: 1 
-Sassy Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Blizzard  
-- Ice Shard  
-- Leech Seed  
-- Protect  
-
-Beartic @ Life Orb  
-Ability: Slush Rush  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Crash  
-- Earthquake  
-- Close Combat  
-- Swords Dance  
-
-Cetitan @ Loaded Dice  
-Ability: Slush Rush  
-Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Icicle Spear  
-- Ice Shard  
-- Superpower  
-- Belly Drum  
-
-Bellibolt @ Leftovers  
-Ability: Electromorphosis  
-Level: 1 
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Parabolic Charge  
-- Charge Beam  
-- Soak  
-- Slack Off  
-
-Lycanroc-Dusk @ Focus Sash  
-Ability: Tough Claws  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Crunch  
-- Endeavor  
-- Accelerock  
-- Stealth Rock  
-
-Slowbro @ Slowbronite  
-Ability: Regenerator  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Surf  
-- Calm Mind  
-- Blizzard  
-- Slack Off  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_JAYLEN ===
 Name: JAYLEN
@@ -8202,58 +7154,34 @@ Class: Champion
 Pic: Champion Wallace
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
-Mugshot: Yellow
+AI: Smart Trainer
+Mugshot: Pink
 
-Wailord
-Level: 57
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Spout
-- Double Edge
-- Blizzard
+Primarina
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Tentacruel
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Toxic
-- Hydro Pump
-- Sludge Bomb
-- Ice Beam
+Sylveon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Ludicolo
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Giga Drain
-- Surf
-- Leech Seed
-- Double Team
+Tinkaton
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Whiscash
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Surf
-- Amnesia
-- Hyper Beam
+Flutter Mane
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Gyarados
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dragon Dance
-- Earthquake
-- Hyper Beam
-- Surf
+Togekiss 
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Milotic @ Sitrus Berry
-Level: 58
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Recover
-- Surf
-- Ice Beam
-- Toxic
+Gardevoir @ Gardevoirite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ANDREW ===
 Name: ANDREW
@@ -9664,66 +8592,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Kilowattrel @ Blunder Policy  
-Ability: Competitive  
-Level: 1  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Tailwind  
-- Thunderbolt  
-- Hurricane  
-- Roost  
-
-Zoroark-Hisui @ Toxic Orb  
-Ability: Illusion  
-Level: 1  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shadow Ball  
-- Grass Knot  
-- Trick  
-- Flamethrower  
-
-Maushold-Four @ Loaded Dice  
-Ability: Technician  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Population Bomb  
-- Bite  
-- Bullet Seed  
-- Trailblaze  
-
-Tinkaton @ Leftovers  
-Ability: Mold Breaker  
-Level: 1   
-Careful Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Gigaton Hammer  
-- Play Rough  
-- Encore  
-
-Farigiraf @ Sitrus Berry  
-Ability: Cud Chew  
-Level: 1   
-Quiet Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Calm Mind  
-- Baton Pass  
-- Psychic  
-- Tera Blast  
-
-Glimmora 
-Ability: Toxic Debris  
-Level: 1 
-Quiet Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Spiky Shield  
-- Ancient Power  
-- Sludge Bomb  
-- Dazzling Gleam  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL 
 
 === TRAINER_JANI ===
 Name: JANI
@@ -10973,66 +9843,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Shuckle @ Zoom Lens  
-Ability: Sturdy  
-Level: 1 
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Toxic  
-- Protect  
-- Final Gambit  
-
-Bisharp @ Eviolite  
-Ability: Defiant  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Power-Up Punch  
-- Iron Head  
-- Sucker Punch  
-
-Great Tusk @ Booster Energy  
-Ability: Protosynthesis  
-Level: 1
-Naughty Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Bulk Up  
-- Close Combat  
-- Headlong Rush  
-- Ice Spinner  
-
-Dragapult @ Ghost Gem  
-Ability: Clear Body  
-Level: 1
-Lonely Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Dragon Dance  
-- Dragon Darts  
-- Will-O-Wisp  
-- Phantom Force  
-
-Serperior @ Leftovers  
-Ability: Contrary  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Leaf Storm  
-- Tera Blast  
-- Protect  
-- Leech Seed  
-
-Banette @ Banettite  
-Ability: Cursed Body  
-Level: 1
-Sassy Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Destiny Bond  
-- Infestation  
-- Encore  
-- Knock Off  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_JONAS ===
 Name: JONAS
@@ -11087,66 +9899,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Torkoal @ Charcoal  
-Ability: Drought  
-Level: 1  
-Quiet Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Eruption  
-- Heat Wave  
-- Earth Power  
-- Protect  
-
-Lilligant @ White Herb  
-Ability: Chlorophyll  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Sleep Powder  
-- Leaf Storm  
-- Giga Drain  
-- Protect  
-
-Flutter Mane @ Choice Specs  
-Ability: Protosynthesis  
-Level: 1 
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Moonblast  
-- Dazzling Gleam  
-- Shadow Ball  
-- Icy Wind  
-
-Great Tusk @ Choice Scarf  
-Ability: Protosynthesis  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Headlong Rush  
-- Earthquake  
-- Close Combat  
-- Rock Slide  
-
-Dragonite @ Lum Berry  
-Ability: Multiscale  
-Level: 1  
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stomping Tantrum  
-- Tailwind  
-- Extreme Speed  
-- Protect  
-
-Chien-Pao @ Life Orb  
-Ability: Sword of Ruin  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Ice Spinner  
-- Sacred Sword  
-- Sucker Punch  
-- Protect  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_REYNA ===
 Name: REYNA
@@ -11353,19 +10107,20 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+AI: Smart Trainer
 
-Camerupt
-Level: 36
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Ninetales
+Level: 1
+Ability: Drought
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Mightyena
-Level: 38
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Talonflame
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Golbat
-Level: 40
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Ceruledge
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_EDWIN_2 ===
 Name: EDWIN
@@ -11417,49 +10172,33 @@ Class: Rival
 Pic: Wally
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Altaria
-Level: 44
+Probopass
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Aerial Ace
-- Safeguard
-- Dragon Breath
-- Dragon Dance
 
-Delcatty
-Level: 43
+Iron Hands
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Sing
-- Assist
-- Charm
-- Feint Attack
 
-Roselia
-Level: 44
+Roserade
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Magical Leaf
-- Leech Seed
-- Giga Drain
-- Toxic
 
-Magneton
-Level: 41
+Obstagoon
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
-- Supersonic
-- Thunderbolt
-- Tri Attack
-- Screech
 
-Gardevoir
-Level: 45
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Team
-- Calm Mind
-- Psychic
-- Future Sight
+Roaring Moon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Gallade @ Galladite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_MUDKIP ===
 Name: BRENDAN
@@ -11468,11 +10207,11 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Treecko
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 1
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -11481,18 +10220,22 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Staravia
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Gastrodon
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Bisharp
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Grovyle
-Level: 20
+Level: 1
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_MUDKIP ===
@@ -11502,18 +10245,27 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Avalugg
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Pelipper
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Centiskorch
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Grovyle
-Level: 31
+Falinks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Wugtrio
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Sceptile @ Sceptilite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TREECKO ===
@@ -11523,11 +10275,11 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move / Try To Faint / Force Setup First Turn
+AI: Smart Trainer
 
 Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 1
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: BRENDAN
@@ -11536,18 +10288,22 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Staravia
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Gastrodon
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Bisharp
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Combusken
-Level: 20
+Level: 1
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TREECKO ===
@@ -11557,18 +10313,27 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Pelipper
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Avalugg
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Centiskorch
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Combusken
-Level: 31
+Falinks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Wugtrio
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Blaziken @ Blazikenite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_BRENDAN_ROUTE_103_TORCHIC ===
@@ -11578,11 +10343,11 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 1
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -11591,18 +10356,22 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Staravia
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Gastrodon
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Bisharp
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Marshtomp
-Level: 20
+Level: 1
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_BRENDAN_ROUTE_119_TORCHIC ===
@@ -11612,18 +10381,27 @@ Pic: Brendan
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Avalugg
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Centiskorch
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Marshtomp
-Level: 31
+Falinks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Wugtrio
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Swampert @ Swampertite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_MUDKIP ===
@@ -11633,11 +10411,11 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Treecko
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 1
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -11646,18 +10424,22 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Staravia
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Gastrodon
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Bisharp
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Grovyle
-Level: 20
+Level: 1
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_MUDKIP ===
@@ -11667,18 +10449,27 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Avalugg
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Centiskorch
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Grovyle
-Level: 31
+Falinks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Wugtrio
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Sceptile @ Sceptilite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TREECKO ===
@@ -11688,11 +10479,11 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 1
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -11701,18 +10492,22 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Wingull
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Staravia
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Gastrodon
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Bisharp
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Combusken
-Level: 20
+Level: 1
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TREECKO ===
@@ -11722,18 +10517,27 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Pelipper
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Avalugg
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Centiskorch
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Combusken
-Level: 31
+Falinks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Wugtrio
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Blaziken @ Blazikenite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAY_ROUTE_103_TORCHIC ===
@@ -11743,11 +10547,11 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 1
+IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY
@@ -11756,18 +10560,22 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Lombre
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Staravia
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Slugma
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Gastrodon
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+Bisharp
+Level: 1
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Marshtomp
-Level: 20
+Level: 1
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_MAY_ROUTE_119_TORCHIC ===
@@ -11777,18 +10585,27 @@ Pic: May
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Lombre
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Avalugg
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Slugma
-Level: 29
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+Centiskorch
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Marshtomp
-Level: 31
+Falinks
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Wugtrio
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Swampert @ Swampertite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ISAAC_1 ===
@@ -11822,66 +10639,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Scrafty @ Life Orb  
-Ability: Intimidate  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Dragon Dance  
-- High Jump Kick  
-- Knock Off  
-- Iron Head  
-
-Omastar @ Focus Sash  
-Ability: Weak Armor  
-Level: 1  
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shell Smash  
-- Hidden Power
-- Hydro Pump  
-- Ice Beam  
-
-Vivillon-Sun @ Bright Powder  
-Ability: Compound Eyes  
-Level: 1   
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Quiver Dance  
-- Sleep Powder  
-- Hurricane  
-- Energy Ball  
-
-Cofagrigus @ Leftovers  
-Ability: Mummy  
-Level: 1  
-Quiet Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Trick Room  
-- Nasty Plot  
-- Shadow Ball  
-- Hidden Power  
-
-Aerodactyl @ Razor Claw  
-Ability: Unnerve  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Taunt  
-- Stealth Rock  
-- Stone Edge  
-- Earthquake  
-
-Glalie @ Glalitite  
-Ability: Ice Body  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Double-Edge  
-- Earthquake  
-- Ice Shard  
-- Spikes  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL 
 
 === TRAINER_ISAAC_2 ===
 Name: ISAAC
@@ -11947,66 +10706,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Talonflame @ Flying Gem  
-Ability: Flame Body  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Brave Bird  
-- Will-O-Wisp  
-- U-turn  
-- Roost  
-
-Basculegion-F @ Choice Scarf  
-Ability: Adaptability  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shadow Ball  
-- Surf  
-- Ice Beam  
-- Flip Turn  
-
-Chansey @ Eviolite  
-Ability: Natural Cure  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Wish  
-- Soft-Boiled  
-- Stealth Rock  
-- Thunder Wave  
-
-Noivern @ White Herb  
-Ability: Frisk  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Draco Meteor  
-- Super Fang  
-- Taunt  
-- Roost  
-
-Maushold @ Wide Lens  
-Ability: Technician  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Tidy Up  
-- Population Bomb  
-- Bite  
-- Double Hit  
-
-Chesnaught @ Chesnaughtite  
-Ability: Bulletproof  
-Level: 1
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Spikes  
-- Body Press  
-- Knock Off  
-- Synthesis  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_GARRISON ===
 Name: GARRISON
@@ -12462,66 +11163,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Tyranitar @ Tyranitarite  
-Ability: Sand Stream  
-Level: 1
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stone Edge  
-- Knock Off  
-- Earthquake  
-- Ice Punch  
-
-Slither Wing @ Booster Energy  
-Ability: Protosynthesis  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- First Impression  
-- Close Combat  
-- Flare Blitz  
-- U-turn  
-
-Donphan @ Assault Vest  
-Ability: Sturdy  
-Level: 1 
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Body Press  
-- Earthquake  
-- Knock Off  
-- Rapid Spin  
-
-Excadrill @ Ground Gem  
-Ability: Sand Force  
-Level: 1
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Earthquake  
-- Iron Head  
-- Rapid Spin  
-
-Arcanine-Hisui @ Razor Claw  
-Ability: Rock Head  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Head Smash  
-- Flare Blitz  
-- Extreme Speed  
-- Stealth Rock  
-
-Toxapex @ Leftovers  
-Ability: Regenerator  
-Level: 1
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Surf  
-- Toxic  
-- Haze  
-- Recover  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_HARRISON ===
 Name: HARRISON
@@ -12764,23 +11407,20 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Numel
-Level: 18
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Vulpix
+Ability: Drought
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Poochyena
-Level: 20
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Fletchinder
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Numel
-Level: 22
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-
-Zubat
-Level: 22
-IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
+Simisear
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_JONATHAN ===
 Name: JONATHAN
@@ -12791,66 +11431,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Quagsire @ Salac Berry  
-Ability: Water Absorb  
-Level: 1   
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Spikes  
-- Earthquake  
-- Toxic  
-- Recover  
-
-Primarina @ Leftovers  
-Ability: Torrent  
-Level: 1  
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Calm Mind  
-- Surf  
-- Moonblast  
-- Substitute  
-
-Gardevoir @ Choice Scarf  
-Ability: Trace  
-Level: 1  
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Moonblast  
-- Psychic  
-- Trick  
-- Healing Wish  
-
-Chansey @ Eviolite  
-Ability: Natural Cure  
-Level: 1  
-Bold Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Wish  
-- Soft-Boiled  
-- Stealth Rock  
-- Thunder Wave  
-
-Magnezone @ Choice Specs  
-Ability: Analytic  
-Level: 1 
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Thunderbolt  
-- Flash Cannon  
-- Volt Switch  
-- Tera Blast  
-
-Dragonite @ Dragoninite  
-Ability: Multiscale  
-Level: 1 
-Adamant Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Dragon Tail  
-- Extreme Speed  
-- Earthquake  
-- Roost  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_BRENDAN_RUSTBORO_TORCHIC ===
 Name: BRENDAN
@@ -12892,20 +11474,25 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
-Items: Super Potion / Super Potion
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Mightyena
-Level: 37
+Torkoal
+Ability: Drought
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Crobat
-Level: 38
+Centiskorch
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Camerupt
-Level: 39
+Arcanine Hisui
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
+
+Houndoom @ Houndoominite
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_MAXIE_MT_CHIMNEY ===
@@ -12914,20 +11501,21 @@ Class: Magma Leader
 Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
-Items: Super Potion / Super Potion
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Mightyena
-Level: 24
+Torkoal
+Ability: Drought
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Zubat
-Level: 24
+Centiskorch
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Camerupt
-Level: 25
+Heatmor
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_TIANA ===
@@ -14103,66 +12691,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Weavile @ Life Orb  
-Ability: Pressure  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Swords Dance  
-- Triple Axel  
-- Ice Shard  
-- Knock Off  
-
-Polteageist @ Focus Sash  
-Ability: Weak Armor  
-Level: 1 
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Shell Smash  
-- Shadow Ball  
-- Stored Power  
-- Tera Blast  
-
-Lilligant-Hisui @ Wide Lens  
-Ability: Hustle  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Triple Axel  
-- Close Combat  
-- Leaf Blade  
-- Victory Dance  
-
-Overqwil @ Black Sludge  
-Ability: Intimidate  
-Level: 1
-Impish Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Barb Barrage  
-- Crunch  
-- Spikes  
-- Toxic Spikes  
-
-Persian @ Silk Scarf  
-Ability: Technician  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Fake Out  
-- Covet  
-- Bite  
-- Trailblaze  
-
-Sceptile @ Sceptilite  
-Ability: Overgrow  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Leaf Storm  
-- Focus Blast  
-- Tera Blast  
-- Energy Ball  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_RUBEN ===
 Name: RUBEN
@@ -14173,66 +12703,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Cinderace @ Assault Vest  
-Ability: Libero  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Pyro Ball  
-- U-turn  
-- Sucker Punch  
-- Blaze Kick  
-
-Iron Moth @ Booster Energy  
-Ability: Quark Drive  
-Level: 1   
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Fiery Dance  
-- Energy Ball  
-- Dazzling Gleam  
-- Psychic  
-
-Arcanine-Hisui @ Choice Band  
-Ability: Rock Head  
-Level: 1 
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Head Smash  
-- Flare Blitz  
-- Extreme Speed  
-- Close Combat  
-
-Lycanroc-Dusk @ Rocky Helmet  
-Ability: Tough Claws  
-Level: 1  
-Jolly Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stone Edge  
-- Close Combat  
-- Accelerock  
-- Crunch  
-
-Armarouge @ Focus Sash  
-Ability: Weak Armor  
-Level: 1   
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Will-O-Wisp  
-- Expanding Force  
-- Armor Cannon  
-- Calm Mind  
-
-Coalossal @ Weakness Policy  
-Ability: Steam Engine  
-Level: 1 
-Sassy Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Stealth Rock  
-- Rock Blast  
-- Flamethrower  
-- Earthquake  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_KOJI_1 ===
 Name: KOJI
@@ -15183,23 +13655,24 @@ Pic: Magma Admin
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Check Bad Move
+Items: Mega Ring
+AI: Smart Trainer
 
-Numel
-Level: 26
-IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
+Ninetales
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Mightyena
-Level: 28
-IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
+Simisear
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Zubat
-Level: 30
-IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
+Ceruledge
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Camerupt
-Level: 33
-IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
+Delphox @ Delphoxite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_DARCY ===
 Name: DARCY
@@ -15210,66 +13683,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Togekiss @ Sitrus Berry  
-Ability: Serene Grace  
-Level: 1
-Calm Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Tailwind  
-- Draining Kiss  
-- Air Slash  
-- Thunder Wave  
-
-Volcarona @ Fire Gem  
-Ability: Swarm  
-Level: 1
-Modest Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Heat Wave  
-- Bug Buzz  
-- Quiver Dance  
-- Hurricane  
-
-Absol @ Razor Claw  
-Ability: Super Luck  
-Level: 1 
-Naughty Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Psycho Cut  
-- Shadow Claw  
-- Stone Edge  
-- Focus Energy  
-
-Butterfree @ Light Clay  
-Ability: Compound Eyes  
-Level: 1
-Timid Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Tailwind  
-- Reflect  
-- Sleep Powder  
-- Toxic  
-
-Emolga @ Petaya Berry  
-Ability: Static  
-Level: 1
-Naive Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Air Slash  
-- Energy Ball  
-- Signal Beam  
-- Volt Switch  
-
-Beedrill @ Beedrillite  
-Ability: Sniper  
-Level: 1 
-Lonely Nature  
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe  
-- Poison Jab  
-- X-Scissor  
-- U-turn  
-- Swords Dance  
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_MAXIE_MOSSDEEP ===
 Name: MAXIE
@@ -15278,18 +13693,19 @@ Pic: Magma Leader Maxie
 Gender: Male
 Music: Magma
 Double Battle: No
-AI: Basic Trainer
+Items: Mega Ring
+AI: Smart Trainer
 
-Mightyena
-Level: 42
+Coalossal
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Crobat
-Level: 43
+Gouging Fire
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Camerupt
-Level: 44
+Charizard @ Charizardite X
+Level: 1
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_PETE ===
@@ -15367,66 +13783,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Corviknight @ Leftovers
-Ability: Pressure
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Impish Nature
-- Brave Bird
-- U-turn
-- Roost
-- Defog
-
-Sandy Shocks @ Booster Energy
-Ability: Protosynthesis
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Timid Nature
-- Volt Switch
-- Earth Power
-- Thunderbolt
-- Tera Blast
-
-Empoleon @ Sitrus Berry
-Ability: Competitive
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Sassy Nature
-- Flip Turn
-- Surf
-- Roost
-- Stealth Rock
-
-Slowbro-Galar @ Quick Claw
-Ability: Quick Draw
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Belly Drum
-- Shell Side Arm
-- Earthquake
-- Drain Punch
-
-Arboliva @ Choice Specs
-Ability: Seed Sower
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Modest Nature
-- Leaf Storm
-- Earth Power
-- Hyper Voice
-- Giga Drain
-
-Wyrdeer @ Life Orb
-Ability: Intimidate
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Naive Nature
-- Psyshield Bash
-- Trailblaze
-- Shadow Ball
-- Earthquake
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_ELIJAH ===
 Name: ELIJAH
@@ -15908,66 +14266,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Volcarona @ Focus Sash
-Ability: Flame Body
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Timid Nature
-- Quiver Dance
-- Fiery Dance
-- Tera Blast
-- Giga Drain
-
-Kingdra @ Damp Rock
-Ability: Swift Swim
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Timid Nature
-- Rain Dance
-- Hurricane
-- Hydro Pump
-- Draco Meteor
-
-Breloom @ Loaded Dice
-Ability: Technician
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Spore
-- Bullet Seed
-- Mach Punch
-- Tera Blast
-
-Delphox @ Delphoxite
-Ability: Blaze
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Timid Nature
-- Calm Mind
-- Fire Blast
-- Psychic
-- Grass Knot
-
-Morpeko @ Heavy-Duty Boots
-Ability: Hunger Switch
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Aura Wheel
-- Knock Off
-- Rapid Spin
-- Parting Shot
-
-Muk @ Leftovers
-Ability: Poison Touch
-Level: 1
-IVs: 24 HP / 24 Atk / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Careful Nature
-- Poison Jab
-- Drain Punch
-- Haze
-- Toxic Spikes
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_CALLIE ===
 Name: CALLIE
@@ -16022,66 +14322,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Torkoal @ Heat Rock
-Ability: Drought
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Bold Nature
-- Lava Plume
-- Rapid Spin
-- Stealth Rock
-- Yawn
-
-Tyranitar @ Chople Berry
-Ability: Sand Stream
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Stone Edge
-- Crunch
-- Earthquake
-- Ice Punch
-
-Iron Leaves @ Booster Energy
-Ability: Quark Drive
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Swords Dance
-- Leaf Blade
-- Psyblade
-- Wild Charge
-
-Charizard @ Charizardite X
-Ability: Blaze
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Dragon Dance
-- Flare Blitz
-- Earthquake
-- Dragon Claw
-
-Vikavolt @ Quick Claw
-Ability: Levitate
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Modest Nature
-- Sticky Web
-- Thunderbolt
-- Volt Switch
-- Energy Ball
-
-Primeape @ Eviolite
-Ability: Defiant
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Bulk Up
-- Drain Punch
-- Rage Fist
-- Taunt
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_MAY_RUSTBORO_TREECKO ===
 Name: MAY
@@ -17815,57 +16057,33 @@ Class: Rival
 Pic: Steven
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore / Full Restore
+Items: Mega Ring
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Skarmory
-Level: 77
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Toxic
-- Aerial Ace
-- Spikes
-- Steel Wing
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Claydol
-Level: 75
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Reflect
-- Light Screen
-- Ancient Power
-- Earthquake
+Kingambit
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Aggron
-Level: 76
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Earthquake
-- Solar Beam
-- Dragon Claw
+Excadrill
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Cradily
-Level: 76
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Giga Drain
-- Ancient Power
-- Ingrain
-- Confuse Ray
+Aegislash
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Armaldo
-Level: 76
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Water Pulse
-- Ancient Power
-- Aerial Ace
-- Slash
+Duraludon
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
-Metagross @ Sitrus Berry
-Level: 78
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Psychic
-- Meteor Mash
-- Shadow Ball
+Aggron @ Aggronite
+Level: 1
+IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_ANABEL ===
 Name: ANABEL
@@ -18144,66 +16362,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: No
 AI: Smart Trainer
-
-Torkoal @ Heat Rock
-Ability: Drought
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Bold Nature
-- Lava Plume
-- Rapid Spin
-- Stealth Rock
-- Yawn
-
-Tyranitar @ Chople Berry
-Ability: Sand Stream
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Stone Edge
-- Crunch
-- Earthquake
-- Ice Punch
-
-Iron Leaves @ Booster Energy
-Ability: Quark Drive
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Swords Dance
-- Leaf Blade
-- Psyblade
-- Wild Charge
-
-Charizard @ Charizardite X
-Ability: Blaze
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Dragon Dance
-- Flare Blitz
-- Earthquake
-- Dragon Claw
-
-Vikavolt @ Quick Claw
-Ability: Levitate
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Modest Nature
-- Sticky Web
-- Thunderbolt
-- Volt Switch
-- Energy Ball
-
-Primeape @ Eviolite
-Ability: Defiant
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Bulk Up
-- Drain Punch
-- Rage Fist
-- Taunt
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_CRISTIN_3 ===
 Name: CRISTIN
@@ -18214,66 +16374,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer
-
-Torkoal @ Heat Rock
-Ability: Drought
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Bold Nature
-- Lava Plume
-- Rapid Spin
-- Stealth Rock
-- Yawn
-
-Charizard @ Charizardite X
-Ability: Blaze
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Dragon Dance
-- Flare Blitz
-- Earthquake
-- Dragon Claw
-
-Tyranitar @ Chople Berry
-Ability: Sand Stream
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Stone Edge
-- Crunch
-- Earthquake
-- Ice Punch
-
-Iron Leaves @ Booster Energy
-Ability: Quark Drive
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Swords Dance
-- Leaf Blade
-- Psyblade
-- Wild Charge
-
-Vikavolt @ Quick Claw
-Ability: Levitate
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Modest Nature
-- Sticky Web
-- Thunderbolt
-- Volt Switch
-- Energy Ball
-
-Primeape @ Eviolite
-Ability: Defiant
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Bulk Up
-- Drain Punch
-- Rage Fist
-- Taunt
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_CRISTIN_4 ===
 Name: CRISTIN
@@ -18284,66 +16386,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer
-
-Torkoal @ Heat Rock
-Ability: Drought
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Bold Nature
-- Lava Plume
-- Rapid Spin
-- Stealth Rock
-- Yawn
-
-Charizard @ Charizardite X
-Ability: Blaze
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Dragon Dance
-- Flare Blitz
-- Earthquake
-- Dragon Claw
-
-Tyranitar @ Chople Berry
-Ability: Sand Stream
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Stone Edge
-- Crunch
-- Earthquake
-- Ice Punch
-
-Iron Leaves @ Booster Energy
-Ability: Quark Drive
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Swords Dance
-- Leaf Blade
-- Psyblade
-- Wild Charge
-
-Vikavolt @ Quick Claw
-Ability: Levitate
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Modest Nature
-- Sticky Web
-- Thunderbolt
-- Volt Switch
-- Energy Ball
-
-Primeape @ Eviolite
-Ability: Defiant
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Bulk Up
-- Drain Punch
-- Rage Fist
-- Taunt
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_CRISTIN_5 ===
 Name: CRISTIN
@@ -18354,66 +16398,8 @@ Music: Cool
 Items: Mega Ring
 Double Battle: Yes
 AI: Smart Trainer
-
-Torkoal @ Heat Rock
-Ability: Drought
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Bold Nature
-- Lava Plume
-- Rapid Spin
-- Stealth Rock
-- Yawn
-
-Charizard @ Charizardite X
-Ability: Blaze
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Dragon Dance
-- Flare Blitz
-- Earthquake
-- Dragon Claw
-
-Tyranitar @ Chople Berry
-Ability: Sand Stream
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Adamant Nature
-- Stone Edge
-- Crunch
-- Earthquake
-- Ice Punch
-
-Iron Leaves @ Booster Energy
-Ability: Quark Drive
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Swords Dance
-- Leaf Blade
-- Psyblade
-- Wild Charge
-
-Vikavolt @ Quick Claw
-Ability: Levitate
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Modest Nature
-- Sticky Web
-- Thunderbolt
-- Volt Switch
-- Energy Ball
-
-Primeape @ Eviolite
-Ability: Defiant
-Level: 1
-IVs: 24 Atk / 24 HP / 24 SpA / 24 Spe / 24 SpD / 24 Def
-Jolly Nature
-- Bulk Up
-- Drain Punch
-- Rage Fist
-- Taunt
+Party Size: 6
+Copy Pool: TRAINER_MARCEL
 
 === TRAINER_FERNANDO_2 ===
 Name: FERNANDO
